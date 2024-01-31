@@ -6,12 +6,7 @@ The Sindhupalchok Earthquake Damage Analysis project is a comprehensive machine 
 
 ## Repository Contents
 
-- `data/`: Directory containing the dataset files used for analysis.
 - `notebooks/`: Jupyter notebooks with detailed analysis and model development.
-- `scripts/`: Python scripts for data wrangling, feature engineering, and utility functions.
-- `models/`: Trained model objects that can be loaded for prediction or further analysis.
-- `requirements.txt`: A list of Python packages required to run the project.
-- `LICENSE`: The license file for the project.
 - `README.md`: This file, providing an overview and instructions for the project.
 
 ## Installation
@@ -20,13 +15,13 @@ To set up the project environment:
 
 1. Clone the repository:
    ```sh
-   git clone [repository-link]
-   cd [repository-name]
+   git clone https://github.com/ungest/Building-Damage-Classifier-Nepal.git
+   cd Building-Damage-Classifier-Nepal
    ```
 
 2. Install the required packages:
    ```sh
-uirements.txt
+requirements.txt
    ```
 
 ## Usage
